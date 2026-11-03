@@ -5,7 +5,7 @@ Feel free to use this template as a jumping off point for your projects. The tem
 ### Setup:
 In order to use the template you'll need to add it to your unity hub templates.
   - Close Unity Hub
-  - Download this repo
+  - Download (Code > Download ZIP) this repo
   - Navigate to your Unity Templates folder on your PC
    
     > This can be set from Unity Hub under Settings > Templates > Templates location
